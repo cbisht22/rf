@@ -254,7 +254,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "New_Library"
+    ]
   },
   "meta": {
     "filename": "E220-900M30S.kicad_pro",
@@ -441,7 +443,7 @@
         "uuid": "f2a60e7e-3583-432f-a681-803adf969182"
       }
     ],
-    "used_designators": "U1-2,C1-3,#PWR1-3,J1",
+    "used_designators": "U1-2,C1-4,#PWR1-9,R1,J1-2",
     "variants": []
   },
   "sheets": [
